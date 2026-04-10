@@ -2,12 +2,12 @@
   "applinks": {
     "details": [
       {
-        "appID": "RJGSSDH4FX.com.anonymous.expo-demo",
+        "appID": "4PX27W3HKP.com.josesacramento.aultdex",
         "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["RJGSSDH4FX.com.anonymous.expo-demo"]
+    "apps": ["4PX27W3HKP.com.josesacramento.aultdex"]
   }
 }
