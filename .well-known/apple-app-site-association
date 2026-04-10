@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "RJGSSDH4FX.com.anonymous.expo-demo",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["RJGSSDH4FX.com.anonymous.expo-demo"]
+  }
+}
