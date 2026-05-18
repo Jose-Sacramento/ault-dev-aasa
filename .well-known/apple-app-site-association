@@ -1,13 +1,10 @@
 {
   "applinks": {
     "details": [
-      {
-        "appID": "4PX27W3HKP.com.josesacramento.aultdex",
-        "paths": ["*"]
-      }
+      { "appID": "Y9FP32YYSJ.com.askroi.aultmarkets", "paths": ["*"] }
     ]
   },
   "webcredentials": {
-    "apps": ["4PX27W3HKP.com.josesacramento.aultdex"]
+    "apps": ["Y9FP32YYSJ.com.askroi.aultmarkets"]
   }
 }
